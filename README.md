@@ -1,15 +1,20 @@
-Hello! I'm Oliver  
+Hey, I'm Oliver!  
 
-I have experience in  
-- Rust  
-- Python  
-- Lua  
-- C++  
-- HTML  
-- CSS  
+I have experience in
+ - Object oriented programming
+ - Backend web development
+ - Rust
+ - Git
+ - Linux
+ - Parametric 3D modeling
+ - 3D printers (slicing, printing, maintaining, troubleshooting, etc.)
+ - Sports broadcasting (directing)
+ - Basic graphic design (Adobe Illustrator)
 
-My portfolio and certifications can be found at at  
-https://allliver.github.io
+In my free time I like to
+ - Spend time with friends
+ - Work on my programming projects
+ - Listen to music
+ - Play the bass guitar
 
-If you have any inquiries regarding my portfolio, projects, or anything professional like that, please contact me at  
-oliverfedd@outlook.com
+Contact: oliverfedd@outlook.com
