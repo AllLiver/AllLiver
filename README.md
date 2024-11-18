@@ -8,7 +8,7 @@ I have experience in
  - Linux
  - Parametric 3D modeling
  - 3D printers (slicing, printing, maintaining, troubleshooting, etc.)
- - Sports broadcasting (directing)
+ - Sports broadcasting (directing, using a camera)
  - Basic graphic design (Adobe Illustrator)
 
 In my free time I like to
